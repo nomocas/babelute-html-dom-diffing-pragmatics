@@ -1,5 +1,4 @@
 # babelute-html-dom-diffing-pragmatics
-# babelute-html-dom-pragmatics
 
 Warning ! Deprecated. 
 
